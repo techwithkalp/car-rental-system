@@ -59,7 +59,8 @@ the admin can control cars, users, and bookings from the dashboard.
 
 ## 📁 Project Structure
 
-car_rental_system/ │ ├── admin/\
+car_rental_system/ │
+├── admin/\
 ├── user/\
 ├── assets/\
 ├── DataBase/\
@@ -92,17 +93,17 @@ car_rental_system/ │ ├── admin/\
 
 ## ⚠️ Important Notes
 
--   Change default credentials before production\
--   Do not upload sensitive data\
+-   Change default credentials before production
+-   Do not upload sensitive data
 -   Keep database secure
 
 ------------------------------------------------------------------------
 
 ## 🚀 Future Improvements
 
--   Payment gateway integration\
--   Email notifications\
--   Advanced search & filters\
+-   Payment gateway integration
+-   Email notifications
+-   Advanced search & filters
 -   Mobile responsive improvements
 
 ------------------------------------------------------------------------
